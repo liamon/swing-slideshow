@@ -1,5 +1,3 @@
-/* Liam O'Neill - 15349756 */
-
 package mygui;
 
 import java.awt.BorderLayout;
